@@ -1,0 +1,1 @@
+from bip_utils.bip39.bip39_seed_generator import Bip39SeedGenerator
